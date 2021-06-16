@@ -158,14 +158,14 @@ df = build_df(config)
 
 The configurations used for reproducing the results of the paper and running additional experiments can be found in the [notebook](project.ipynb).
 
-
+### Caching
+To avoid expensive re-computation of generated synthetic data, we include the ability to store generate data to disk in the form of json files.
+You can make use of local caching of experiment results with the `USE_CACHED_SYNTHETIC_DATA` flag in the first cell of the notebook.
 
 <!-- LICENSE -->
 ## License
 
-TODO: 
-Distributed under the MIT License. See `LICENSE` for more information.
-
+This project's code is distributed under the MIT License. See `LICENSE` for more information.
 
 
 <!-- CONTACT -->
@@ -191,4 +191,4 @@ Thanks to [Prof. Ulrik Brandes](https://sn.ethz.ch/profile.html?persid=239462) f
 [contributors-shield]: https://img.shields.io/github/contributors/nicolas-kuechler/eth-sports-networks-2021.svg?style=for-the-badge
 [contributors-url]: https://github.com/nicolas-kuechler/eth-sports-networks-2021/graphs/contributors
 [license-shield]: https://img.shields.io/github/license/othneildrew/Best-README-Template.svg?style=for-the-badge
-[license-url]: https://github.com/othneildrew/Best-README-Template/blob/master/LICENSE.txt
+[license-url]: https://github.com/nicolas-kuechler/eth-sports-networks-2021/blob/main/LICENSE
