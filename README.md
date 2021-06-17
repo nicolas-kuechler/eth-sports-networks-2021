@@ -32,7 +32,7 @@
 </p>
 
 <!-- TABLE OF CONTENTS -->
-<details open="open">
+<details open="open"> 
   <summary>Table of Contents</summary>
   <ol>
     <li>
@@ -63,9 +63,9 @@
 The project builds on the paper [Limits of PageRank-based ranking methods in sports data](https://arxiv.org/abs/2012.06366) by Yuhao Zhou, Ruijie Wang, Yi-Cheng Zhang, An Zeng, and Matúš Medo.
 
 The authors propose a new approach to evaluate algorithms for ranking sports teams.
-Based on an artificial groundtruth ranking (fitness values), they introduce a model to simulate the outcome of games.
+Based on an artificial ground truth ranking (fitness values), they introduce a model to simulate the outcome of games.
 The model includes one variable for the home advantage and one for the randomness factor of the sport.
-The simulated sports results are then used to evaluate different ranking algorithms by comparing their ranking to the groundtruth.
+The simulated sports results are then used to evaluate different ranking algorithms by comparing their ranking to the ground truth.
 
 
 ![Pipeline](plots/pipeline.png)
@@ -92,8 +92,7 @@ The project uses Python in an interactive JupyterLab notebook.
 <!-- GETTING STARTED -->
 ## Getting Started
 
-This is an example of how you may give instructions on setting up your project locally.
-To get a local copy up and running follow these simple example steps.
+Follow these simple example steps to set up the project locally.
 
 ### Prerequisites
 
@@ -107,7 +106,7 @@ pip install pipenv
 
 1. Clone the repo
 ```sh
-   git clone https://github.com/nicolas-kuechler/eth-sports-networks-2021.git
+git clone https://github.com/nicolas-kuechler/eth-sports-networks-2021.git
 ```
 
 2. Install the Python packages
@@ -122,19 +121,18 @@ pipenv run jupyter lab
 
 4. Open `project.ipynb` and ensure that the sports-networks kernel is selected.
 
-5. Follow the instructions in the notebook to ensure that all cells (including the collapsed cells) are executed in the proper order.
+5. Follow the instructions in the notebook to execute all cells in the proper order (including the collapsed cells).
 
 <!-- USAGE EXAMPLES -->
 ## Usage
 
 
-We specify experiments with a Python config dictionary and use the function `build_df(config)` to run the experiments and build a Panda dataframe that contains the results.
+We specify experiments with a Python config dictionary and use the function `build_df(config)` to run the experiments and build a Panda data frame that contains the results.
 
-
-In the example below, we use 30 teams and repeat the experiments for linear and non-linear fitness values. We use the softmax model with the specified home advantage `H`and randomness `delta`.
-Here, we repeat experiments for 10%, 30% and 80% of the games played and we don't remove any unexpected results. 
+In the example below, we use 30 teams and repeat the experiments for linear and non-linear fitness values. We use the softmax model with the specified home advantage `H` and randomness `delta`.
+Here, we repeat experiments for 10%, 30%, and 80% of the games played, and we don't remove any unexpected results. 
 Further, the config repeats each experiment 100 times and uses five different ranking algorithms and three metrics.
-Finally, the config specifies using a random round robin algorithm for the schedule and sample a new schedule in each repetition. 
+Finally, the config specifies using a random round-robin algorithm for the schedule and sample a new schedule in each repetition. 
 
 ```python
 
@@ -156,11 +154,11 @@ df = build_df(config)
 
 ```
 
-The configurations used for reproducing the results of the paper and running additional experiments can be found in the [notebook](project.ipynb).
+You can find the configurations used for reproducing the results of the paper and running additional experiments in the [notebook](project.ipynb).
 
 ### Caching
-To avoid expensive re-computation of generated synthetic data, we include the ability to store generate data to disk in the form of json files.
-You can make use of local caching of experiment results with the `USE_CACHED_SYNTHETIC_DATA` flag in the first cell of the notebook.
+To avoid expensive re-computation of generated synthetic data, we provide the option to persist generated data to disk in JSON files.
+You can enable this local caching of experiment results with the `USE_CACHED_SYNTHETIC_DATA` flag in the first cell of the notebook.
 
 <!-- LICENSE -->
 ## License
