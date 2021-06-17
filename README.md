@@ -1,23 +1,7 @@
-<!--
-*** Thanks for checking out the Best-README-Template. If you have a suggestion
-*** that would make this better, please fork the repo and create a pull request
-*** or simply open an issue with the tag "enhancement".
-*** Thanks again! Now go create something AMAZING! :D
--->
+<!--based on https://github.com/othneildrew/Best-README-Template-->
 
-
-
-<!-- PROJECT SHIELDS -->
-<!--
-*** I'm using markdown "reference style" links for readability.
-*** Reference links are enclosed in brackets [ ] instead of parentheses ( ).
-*** See the bottom of this document for the declaration of the reference variables
-*** for contributors-url, forks-url, etc. This is an optional, concise syntax you may use.
-*** https://www.markdownguide.org/basic-syntax/#reference-style-links
--->
 [![Contributors][contributors-shield]][contributors-url]
 [![MIT License][license-shield]][license-url]
-
 
 
 <!-- PROJECT LOGO -->
@@ -39,6 +23,7 @@
       <a href="#about-the-project">About The Project</a>
       <ul>
         <li><a href="#built-with">Built With</a></li>
+        <li><a href="#data">Data</a></li>
       </ul>
     </li>
     <li>
@@ -86,6 +71,13 @@ As part of the course [Applied Network Science: Sports Networks](http://www.vvz.
 The project uses Python in an interactive JupyterLab notebook. 
 * [Python](https://www.python.org/)
 * [JupyterLab](https://jupyterlab.readthedocs.io/en/stable/)
+
+
+### Data
+
+In the project, we use football results data from 10 seasons (2010-2020) of the Premier League, La Liga, Bundesliga, Serie A, and Ligue 1.
+The data obtained from [sports-reference](https://www.sports-reference.com) is in the `data` folder of the repository along with a list of [download links](data/download-links.md).
+The FIFA world ranking list used in the EURO2021 simulation is from [transfermarkt](https://www.transfermarkt.com/wettbewerbe/fifa).
 
 
 

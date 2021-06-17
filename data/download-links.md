@@ -1,0 +1,67 @@
+
+## Premier League
+- https://fbref.com/en/comps/9/schedule/Premier-League-Scores-and-Fixtures (2020-2021) 
+- https://fbref.com/en/comps/9/3232/schedule/2019-2020-Premier-League-Scores-and-Fixtures (2019-2020) 
+- https://fbref.com/en/comps/9/1889/schedule/2018-2019-Premier-League-Scores-and-Fixtures (2018-2019) 
+- https://fbref.com/en/comps/9/1631/schedule/2017-2018-Premier-League-Scores-and-Fixtures (2017-2018) 
+- https://fbref.com/en/comps/9/1526/schedule/2016-2017-Premier-League-Scores-and-Fixtures (2016-2017) 
+- https://fbref.com/en/comps/9/1467/schedule/2015-2016-Premier-League-Scores-and-Fixtures (2015-2016) 
+- https://fbref.com/en/comps/9/733/schedule/2014-2015-Premier-League-Scores-and-Fixtures (2014-2015) 
+- https://fbref.com/en/comps/9/669/schedule/2013-2014-Premier-League-Scores-and-Fixtures (2013-2014) 
+- https://fbref.com/en/comps/9/602/schedule/2012-2013-Premier-League-Scores-and-Fixtures (2012-2013) 
+- https://fbref.com/en/comps/9/534/schedule/2011-2012-Premier-League-Scores-and-Fixtures (2011-2012) 
+- https://fbref.com/en/comps/9/467/schedule/2010-2011-Premier-League-Scores-and-Fixtures (2010-2011) 
+
+## La Liga
+- https://fbref.com/en/comps/12/schedule/La-Liga-Scores-and-Fixtures (2020-2021) 
+- https://fbref.com/en/comps/12/3239/schedule/2019-2020-La-Liga-Scores-and-Fixtures (2019-2020) 
+- https://fbref.com/en/comps/12/1886/schedule/2018-2019-La-Liga-Scores-and-Fixtures (2018-2019) 
+- https://fbref.com/en/comps/12/1652/schedule/2017-2018-La-Liga-Scores-and-Fixtures (2017-2018) 
+- https://fbref.com/en/comps/12/1547/schedule/2016-2017-La-Liga-Scores-and-Fixtures (2016-2017) 
+- https://fbref.com/en/comps/12/1488/schedule/2015-2016-La-Liga-Scores-and-Fixtures (2015-2016) 
+- https://fbref.com/en/comps/12/755/schedule/2014-2015-La-Liga-Scores-and-Fixtures (2014-2015) 
+- https://fbref.com/en/comps/12/690/schedule/2013-2014-La-Liga-Scores-and-Fixtures (2013-2014) 
+- https://fbref.com/en/comps/12/624/schedule/2012-2013-La-Liga-Scores-and-Fixtures (2012-2013) 
+- https://fbref.com/en/comps/12/557/schedule/2011-2012-La-Liga-Scores-and-Fixtures (2011-2012) 
+- https://fbref.com/en/comps/12/488/schedule/2010-2011-La-Liga-Scores-and-Fixtures (2010-2011)
+
+## Bundesliga
+- https://fbref.com/en/comps/20/schedule/Bundesliga-Scores-and-Fixtures (2020-2021) 
+- https://fbref.com/en/comps/20/3248/schedule/2019-2020-Bundesliga-Scores-and-Fixtures (2019-2020) 
+- https://fbref.com/en/comps/20/2109/schedule/2018-2019-Bundesliga-Scores-and-Fixtures (2018-2019) 
+- https://fbref.com/en/comps/20/1634/schedule/2017-2018-Bundesliga-Scores-and-Fixtures (2017-2018) 
+- https://fbref.com/en/comps/20/1529/schedule/2016-2017-Bundesliga-Scores-and-Fixtures (2016-2017) 
+- https://fbref.com/en/comps/20/1470/schedule/2015-2016-Bundesliga-Scores-and-Fixtures (2015-2016) 
+- https://fbref.com/en/comps/20/736/schedule/2014-2015-Bundesliga-Scores-and-Fixtures (2014-2015) 
+- https://fbref.com/en/comps/20/672/schedule/2013-2014-Bundesliga-Scores-and-Fixtures (2013-2014) 
+- https://fbref.com/en/comps/20/605/schedule/2012-2013-Bundesliga-Scores-and-Fixtures (2012-2013) 
+- https://fbref.com/en/comps/20/537/schedule/2011-2012-Bundesliga-Scores-and-Fixtures (2011-2012) 
+- https://fbref.com/en/comps/20/470/schedule/2010-2011-Bundesliga-Scores-and-Fixtures (2010-2011)
+
+## Serie A
+- https://fbref.com/en/comps/11/schedule/Serie-A-Scores-and-Fixtures (2020-2021) 
+- https://fbref.com/en/comps/11/3260/schedule/2019-2020-Serie-A-Scores-and-Fixtures (2019-2020) 
+- https://fbref.com/en/comps/11/1896/schedule/2018-2019-Serie-A-Scores-and-Fixtures (2018-2019) 
+- https://fbref.com/en/comps/11/1640/schedule/2017-2018-Serie-A-Scores-and-Fixtures (2017-2018) 
+- https://fbref.com/en/comps/11/1535/schedule/2016-2017-Serie-A-Scores-and-Fixtures (2016-2017) 
+- https://fbref.com/en/comps/11/1476/schedule/2015-2016-Serie-A-Scores-and-Fixtures (2015-2016) 
+- https://fbref.com/en/comps/11/742/schedule/2014-2015-Serie-A-Scores-and-Fixtures (2014-1015) 
+- https://fbref.com/en/comps/11/678/schedule/2013-2014-Serie-A-Scores-and-Fixtures (2013-2014) 
+- https://fbref.com/en/comps/11/611/schedule/2012-2013-Serie-A-Scores-and-Fixtures (2012-2013) 
+- https://fbref.com/en/comps/11/544/schedule/2011-2012-Serie-A-Scores-and-Fixtures (2011-2012) 
+- https://fbref.com/en/comps/11/477/schedule/2010-2011-Serie-A-Scores-and-Fixtures (2010-2011) 
+
+
+## Ligue 1
+- https://fbref.com/en/comps/13/schedule/Ligue-1-Scores-and-Fixtures (2020-2021) 
+- https://fbref.com/en/comps/13/3243/schedule/2019-2020-Ligue-1-Scores-and-Fixtures (2019-2020) 
+- https://fbref.com/en/comps/13/2104/schedule/2018-2019-Ligue-1-Scores-and-Fixtures (2018-2019) 
+- https://fbref.com/en/comps/13/1632/schedule/2017-2018-Ligue-1-Scores-and-Fixtures (2017-2018) 
+- https://fbref.com/en/comps/13/1527/schedule/2016-2017-Ligue-1-Scores-and-Fixtures (2016-2017) 
+- https://fbref.com/en/comps/13/1468/schedule/2015-2016-Ligue-1-Scores-and-Fixtures (2015-2016) 
+- https://fbref.com/en/comps/13/734/schedule/2014-2015-Ligue-1-Scores-and-Fixtures (2014-2015) 
+- https://fbref.com/en/comps/13/670/schedule/2013-2014-Ligue-1-Scores-and-Fixtures (2013-2014)
+- https://fbref.com/en/comps/13/603/schedule/2012-2013-Ligue-1-Scores-and-Fixtures (2012-2013) 
+- https://fbref.com/en/comps/13/535/schedule/2011-2012-Ligue-1-Scores-and-Fixtures (2011-2012) 
+- https://fbref.com/en/comps/13/468/schedule/2010-2011-Ligue-1-Scores-and-Fixtures (2010-2011) 
+
