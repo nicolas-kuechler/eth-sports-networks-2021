@@ -159,6 +159,7 @@ You can find the configurations used for reproducing the results of the paper an
 ### Caching
 To avoid expensive re-computation of generated synthetic data, we provide the option to persist generated data to disk in JSON files.
 You can enable this local caching of experiment results with the `USE_CACHED_SYNTHETIC_DATA` flag in the first cell of the notebook.
+In addition, you must ensure that the python hash seed stays constant between runs, by setting `PYTHONHASHSEED` as a constant, e.g.,  `PYTHONHASHSEED=0 pipenv run jupyter lab`.
 
 <!-- LICENSE -->
 ## License
